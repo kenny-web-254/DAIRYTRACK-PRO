@@ -1,0 +1,6 @@
+{
+  "name": "DairyTrack Pro",
+  "description": "Comprehensive Native Android Dairy Farm Management System with Cattle Tracking, Milk Logs, Health, Breeding, Feed, Financials & Gemini AI Specialist",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
